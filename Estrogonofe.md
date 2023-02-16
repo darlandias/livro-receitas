@@ -21,7 +21,7 @@
 
 * 1 copo de creme de leite
 
-* [batata palha](https://blog.tudogostoso.com.br/cardapios/receitas-faceis/receitas-com-batata-palha/) a gosto
+* batata palha
 
 ### Modo de preparo
 
@@ -36,3 +36,5 @@
 5. Incorpore o creme de leite
 
 6. Sirva com arroz branco e batata palha.
+
+
